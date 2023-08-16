@@ -1,3 +1,26 @@
-.fc-dialog-container {
+body .fc-dialog-container {
+    display: none;
+}
+
+body .vm-placement {
+    display: none;
+}
+
+body .vm-footer-content {
+    display: none;
+}
+
+body .tier-and-cover-img {
+    scale: 1.15;
+    margin-left: 65px;
+    margin-bottom: 10px;
+}
+
+body .team-and-rank .team {
+    margin-left: 10px;
+    scale: 1.2;
+}
+
+#__next iframe {
     display: none;
 }
