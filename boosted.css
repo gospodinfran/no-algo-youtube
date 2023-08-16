@@ -4,6 +4,7 @@ body .vm-footer-content,
 body #banner-container,
 body .css-suuv7k.eueu5cy3,
 body .css-1myjs2c.e1zvoak3,
+body .css-1luqd1q.eueu5cy5,
 #__next iframe,
 .desktop-header nav
 {
@@ -36,9 +37,28 @@ body .team-and-rank {
 
 .header-profile-info {
     margin-left: 20px;
+    padding: 10px 10px 5px 0;
 }
 
 span.level {
     scale: 1.2;
     z-index: 99;
+}
+
+body .css-1kw4425.elodsbv0 {
+    border-radius: 20px 20px 0 0;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+body .css-inknuf.e1htfwqw0 {
+    border-radius: 20px 20px 0 0;
+    padding: 10px;
+}
+
+body .css-7lizr3.e1zvoak0 {
+    display: flex;
+    align-items: center;
+    margin: 7px;
+    margin-bottom: 0;
 }
