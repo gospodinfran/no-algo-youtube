@@ -6,12 +6,12 @@ BoostedGG is a Google Chrome extension for [op.gg](https://op.gg) that removes t
 
 First and foremost I made it for myself because alternatives to op.gg, such as [DEEPLOL](https://deeplol.gg) suck, but anyone is free to use it. See how to do so [here.](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
 
-![BoostedGG logo](boostedgg.png)
+![BoostedGG logo](/boostedgg.png)
 
 ## Without BoostedGG
 
-![Before](before.png)
+![Before](/before.png)
 
 ## With BoostedGG
 
-![Before](after.png)
+![Before](/after.png)
