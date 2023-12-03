@@ -7,7 +7,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_icon": "boostedgg.png"
+    "default_icon": "yt-thumbnail128.png"
   },
   "permissions": ["activeTab", "scripting", "storage"]
 }
