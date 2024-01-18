@@ -1,0 +1,7 @@
+body #contents.ytd-rich-grid-renderer,
+body #chips.ytd-feed-filter-chip-bar-renderer,
+body #guide-inner-content.ytd-app,
+body yt-icon-button.ytd-masthead,
+body ytd-search[has-search-header] #header.ytd-search {
+  display: none;
+}

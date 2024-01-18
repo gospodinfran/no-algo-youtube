@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Boosted OP.GG",
-  "description": "Enhances op.gg's user experience.",
+  "host_permissions": ["<all_urls>"],
+  "name": "No-algo YouTube",
+  "description": "Turn YouTube into a search-only website.",
   "version": "0.0.0.1",
   "background": {
     "service_worker": "background.js"
@@ -9,5 +10,5 @@
   "action": {
     "default_icon": "yt-thumbnail128.png"
   },
-  "permissions": ["activeTab", "scripting", "storage"]
+  "permissions": ["activeTab", "scripting", "storage", "tabs"]
 }
